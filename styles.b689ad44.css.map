@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,MACE,2CACF","file":"styles.b689ad44.css","sourceRoot":"../src","sourcesContent":[":root {\n  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n}\n"]}
